@@ -1,0 +1,2 @@
+# Netflix-clone__RR
+With meticulous attention to design and functionality, I crafted this clone to mirror Netflix's dynamic layout. From the eye-catching hero banners to the smoothly scrolling carousels, every element has been carefully coded to provide an immersive user experience. The project not only honed my HTML and CSS skills but also deepened my understanding of responsive design and user-centric development.
